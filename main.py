@@ -21,3 +21,4 @@ code = last_script[start_idx:].split('\'')[0]
 
 # create QR code
 # creat_QR(code)
+# https://www.the-qrcode-generator.com/
