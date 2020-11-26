@@ -1,3 +1,5 @@
+*** 시스템이 업데이트되어 현재 사용 불가능합니다 ***
+
 # CMCQR
 CMC Simple QR code generator  
 
